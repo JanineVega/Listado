@@ -13,9 +13,6 @@ function imp(){
             "<li>Apellido:" + arr[carac].apellido    + "<br>" +
             "<li>Rol:" + arr[carac].rol + "<br>"+
             "<li>Cumpleaños:" + arr[carac].cumpleanios + "<br>" + "<br>";
-
   }
   document.getElementById('print').innerHTML=texto;
-
 }
-alert("salido");
